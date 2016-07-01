@@ -11,5 +11,5 @@ if(detaildaten != -1){
     setTimeout(function(){
        window.location.reload(1);
     }, 5000);
-}
+  }
 }
